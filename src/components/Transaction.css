@@ -1,0 +1,27 @@
+.transaction-page {
+    padding: 30px;
+    background-color: #f9f9f9;
+}
+
+.transaction-details {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.transaction-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.transaction-details p {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.transaction-details .label {
+    font-weight: bold;
+}
